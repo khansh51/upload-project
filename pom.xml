@@ -4,4 +4,11 @@
   <artifactId>upload-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>upload-project</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.googlecode.lanterna</groupId>
+  		<artifactId>lanterna</artifactId>
+  		<version>2.1.8</version>
+  	</dependency>
+  </dependencies>
 </project>
